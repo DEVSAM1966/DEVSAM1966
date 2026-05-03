@@ -123,17 +123,34 @@ Interfaz moderna con:
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DEVSAM1966&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVSAM1966&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 # 🕒 Timeline de mi experiencia
 
 ```mermaid
-%%{init: {'theme': 'default', 'timeline': {'disableMulticolor': false, 'useMaxWidth': false}}}%%
-timeline
+gantt
+    dateFormat  YYYY
     title Línea temporal profesional
-    2022 : Inicio en desarrollo backend con Node.js
-    2023 : Arquitectura MVC · MySQL · JWT
-    2024 : Migración a Java · Spring Boot · Seguridad avanzada
-    2025 : DevOps · Docker · Nginx · VPS
-    2026 : Arquitectura completa Biblioteca Online (Node + Spring + React)
+
+    section Backend
+    Inicio en Node.js           :2022, 1y
+    Arquitectura MVC / JWT      :2023, 1y
+
+    section Java & Spring
+    Migración a Java / Spring   :2024, 1y
+
+    section DevOps
+    Docker / Nginx / VPS        :2025, 1y
+
+    section Full Stack
+    Biblioteca Online (Node + Spring + React) :2026, 1y
 ```
 
 ---
