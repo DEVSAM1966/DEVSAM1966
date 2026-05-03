@@ -126,6 +126,7 @@ Interfaz moderna con:
 # 🕒 Timeline de mi experiencia
 
 ```mermaid
+%%{init: {'theme': 'default', 'timeline': {'disableMulticolor': false, 'useMaxWidth': false}}}%%
 timeline
     title Línea temporal profesional
     2022 : Inicio en desarrollo backend con Node.js
@@ -133,7 +134,7 @@ timeline
     2024 : Migración a Java · Spring Boot · Seguridad avanzada
     2025 : DevOps · Docker · Nginx · VPS
     2026 : Arquitectura completa Biblioteca Online (Node + Spring + React)
-
+```
 
 ---
 
