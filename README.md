@@ -126,8 +126,14 @@ Interfaz moderna con:
 ## 📈 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DEVSAM1966&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVSAM1966&layout=compact&theme=tokyonight" />
+  <img 
+    src="https://streak-stats.demolab.com?user=DEVSAM1966&hide_border=true&mode=weekly" 
+    height="150"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVSAM1966&layout=compact&hide_border=true" 
+    height="150"
+  />
 </p>
 
 ---
