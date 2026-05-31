@@ -18,10 +18,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-17+-red?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-21+-red?logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-4.x-6DB33F?logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-Express-339933?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-18-blue?logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-8-blue?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-17-blue?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-DevOps-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAPI-3.1-6BA539?logo=openapiinitiative&logoColor=white" />
 </p>
